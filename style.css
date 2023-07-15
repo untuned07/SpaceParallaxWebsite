@@ -105,6 +105,7 @@ header{
     padding: 3px;
     background-image: url("https://cdn.mos.cms.futurecdn.net/xcLR5HMU2kxskdAy3ZVuTf.jpg");
     background-size: cover;
+    background-color: black;
     color: white;
     display: flex;
     flex-direction: column;
@@ -128,6 +129,8 @@ header{
 
 @media only screen and (max-width: 600px) {
     .earthClass{
+        background-color: black;
+        color: white;
         background-size: contain;
         background-repeat: no-repeat;
     }
@@ -173,6 +176,7 @@ header{
     padding: 3px;
     background-image: url("https://d.newsweek.com/en/full/2111507/solar-material.jpg?w=1600&h=1200&q=88&f=7b734813a928e810f3c2955a2ed3e53c");
     background-size: cover;
+    background-color: black;
     color: white;
     display: flex;
     flex-direction: column;
@@ -213,6 +217,7 @@ header{
     background-image: url("https://cdn.hswstatic.com/gif/planet-order.jpg");
     background-size: contain;
     background-repeat: no-repeat;
+    background-color: black;
     color: white;
     display: flex;
     flex-direction: column;
